@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazyrain
 - 👀 I'm interested in game development.
-- 🌱 I'm currently learning about level design and procedural generation of in-game items.
+- 🌱 I'm currently learning about procedural generation of level design and in-game items.
 
 <!---
 lazyrain/lazyrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
